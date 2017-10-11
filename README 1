@@ -1,0 +1,7 @@
+# MY-FIRST-PROJECT
+echo "# MY-FIRST-PROJECT" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ANIKET1816/MY-FIRST-PROJECT.git
+git push -u origin master
